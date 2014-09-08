@@ -1,3 +1,6 @@
 this is file 2
 
+
 Lets add a feature
+
+another feature
